@@ -12,6 +12,9 @@
 
 <p align="center">
 <img src="img/presentacion solucion.JPG"  height="260">
+  
+<p align="center">
+<img src="img/presentacion objetivos 2.JPG"  height="195">
 
 ***
 
